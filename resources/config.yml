@@ -1,0 +1,7 @@
+# Value List: true = on. false = off
+
+Anvil: true
+EnchantTable: true
+Mob_Zombie: true
+Mob_Creeper: true
+Mob_Spider: true
