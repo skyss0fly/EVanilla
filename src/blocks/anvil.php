@@ -7,6 +7,6 @@ use pocketmine\block\Anvil;
 
 class Anvil extends Opaque and Anvil {
 return Opaque
-  return Anvil
+return Anvil
 
 }
